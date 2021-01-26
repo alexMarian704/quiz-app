@@ -1,6 +1,5 @@
 const APIQUIZ = "https://opentdb.com/api.php?amount=10&category=9&difficulty=medium&type=multiple";
 const LOCALAPI = "./quiz.json";
-const TESTAPI = "https://jsonplaceholder.typicode.com/photos";
 
 const container = document.getElementById("container");
 const nextQuiz = document.getElementById("nextQuiz");
