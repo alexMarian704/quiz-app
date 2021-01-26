@@ -1,0 +1,145 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "id":1,
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What alcoholic drink is mainly made from juniper berries?",
+        "correct_answer": "Gin",
+        "incorrect_answers": [
+          "Gin",
+          "Vodka",
+          "Rum",
+          "Tequila"
+        ]
+      },
+      {
+        "id":2,
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the Swedish word for &quot;window&quot;?",
+        "correct_answer": "F&ouml;nster",
+        "incorrect_answers": [
+            "F&ouml;nster",
+          "H&aring;l",
+          "Sk&auml;rm",
+          "Ruta"
+        ]
+      },
+      {
+        "id":3,
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the romanized Russian word for &quot;winter&quot;?",
+        "correct_answer": "Zima",
+        "incorrect_answers": [
+            "Zima",
+          "Leto",
+          "Vesna",
+          "Osen&#039;"
+        ]
+      },
+      {
+        "id":4,
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+            "India",
+          "United States of America",
+          "Soviet Union",
+          "Poland"
+        ]
+      },
+      {
+        "id":5,
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who is the founder of &quot;The Lego Group&quot;?",
+        "correct_answer": "Ole Kirk Christiansen",
+        "incorrect_answers": [
+            "Ole Kirk Christiansen",
+          " Jens Niels Christiansen",
+          "Kirstine Christiansen",
+          " Gerhardt Kirk Christiansen"
+        ]
+      },
+      {
+        "id":6,
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What character was once considered to be the 27th letter of the alphabet?",
+        "correct_answer": "Ampersand",
+        "incorrect_answers": [
+            "Ampersand",
+          "Interrobang",
+          "Tilde",
+          "Pilcrow"
+        ]
+      },
+      {
+        "id":7,
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What direction does the Statue of Liberty face?",
+        "correct_answer": "Southeast",
+        "incorrect_answers": [
+            "Southeast",
+          "Southwest",
+          "Northwest",
+          "Northeast"
+        ]
+      },
+      {
+        "id":8,
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+        "correct_answer": "Twilight Zone Tower of Terror",
+        "incorrect_answers": [
+            "Twilight Zone Tower of Terror",
+          "The Haunted Mansion",
+          "Pirates of the Caribbean",
+          "Peter Pan&#039;s Flight"
+        ]
+      },
+      {
+        "id":9,
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "A statue of Charles Darwin sits in what London museum?",
+        "correct_answer": "Natural History Museum",
+        "incorrect_answers": [
+            "Natural History Museum",
+          "Tate",
+          "British Museum",
+          "Science Museum"
+        ]
+      },
+      {
+        "id":10,
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "The Mexican Beer &quot;Corona&quot; is what type of beer?",
+        "correct_answer": "Pale Lager",
+        "incorrect_answers": [
+            "Pale Lager",
+          "India Pale Ale",
+          "Pilfsner",
+          "Baltic Porter"
+        ]
+      }
+    ]
+  }
